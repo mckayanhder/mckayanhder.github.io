@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: à la code
 header-img: img/home-bg.png
 email: mtanhder@icloud.com
 copyright_name: mckayanhder
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A means to a 'begining'
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mckayanhder
